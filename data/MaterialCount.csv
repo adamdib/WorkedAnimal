@@ -1,0 +1,20 @@
+Count,Material,ExcArea
+10,Antler,Area A
+1,Antler,Area B
+57,Antler,Area C
+62,Bone,Area A
+8,Bone,Area B
+114,Bone,Area C
+1,Bone or Ivory,Area A
+1,Bone or Ivory,Area C
+18,Horncore,Area A
+1,Horncore,Area B
+16,Horncore,Area C
+131,Ivory,Area A
+14,Ivory,Area B
+23,Ivory,Area C
+5,Tooth,Area A
+10,Tooth,Area C
+8,Unknown,Area A
+1,Unknown,Area B
+2,Unknown,Area C
